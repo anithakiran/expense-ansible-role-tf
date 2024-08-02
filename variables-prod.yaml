@@ -2,3 +2,4 @@ login_user : root
 login_password : ExpenseApp1
 login_host :   db-prod.devopsaws78s.online
 DB_HOST : db-prod.devopsaws78s.online
+BACKEND_API_URL : backend.app-prod.devopsaws78s.online
